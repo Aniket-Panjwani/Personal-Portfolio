@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Aniket-Panjwani/Personal-Portfolio/issues"
   },
-  "homepage": "https://github.com/Aniket-Panjwani/Personal-Portfolio#readme"
+  "homepage": "https://github.com/Aniket-Panjwani/Personal-Portfolio#readme",
+  "dependencies": {
+    "node": "^21.6.1"
+  }
 }
